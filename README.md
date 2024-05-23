@@ -5,7 +5,7 @@
 I'm a full-stack developer and content creator dedicated to building my vision of the digital world one step at a time. 🚀 All my coding projects are built from the ground up, encompassing everything from planning and design to solving real-life problems with code. 💡
 I have a keen interest in cloud computing ☁️ and leveraging generative AI 🤖 to benefit small businesses. My goal is to empower businesses of all sizes with AI and cloud computing solutions, enabling them to compete effectively with larger enterprises. 💼🌟
 
-**Currently** : ALX/Holbert School software engineering program (👨‍💻 BACK-END ENGINEER SPEACILIAZATION)
+📍**Currently** : ALX/Holbert School software engineering program (👨‍💻 BACK-END ENGINEER SPEACILIAZATION)
 
 ![banner](https://raw.githubusercontent.com/NEO-SK01/NEO-SK01/master/image/BANNER-SVG-GITHUB.svg)
 
