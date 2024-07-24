@@ -1,6 +1,6 @@
 # ️  🛠️💻 Neo Sekaleli
 
-**`Digital Craftsman (Developer/Cloud engineering/ Content Creator)`**
+**`Digital Craftsman (Developer/Cloud engineering)`**
 
 I'm a full-stack developer and content creator dedicated to building my vision of the digital world one step at a time. 🚀 All my coding projects are built from the ground up, encompassing everything from planning and design to solving real-life problems with code. 💡
 I have a keen interest in cloud computing ☁️ and leveraging generative AI 🤖 to benefit small businesses. My goal is to empower businesses of all sizes with AI and cloud computing solutions, enabling them to compete effectively with larger enterprises. 💼🌟
