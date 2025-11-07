@@ -2,11 +2,10 @@
 
 **`Digital Craftsman (Developer/Cloud engineering)`**
 
-I'm a full-stack developer and content creator dedicated to building my vision of the digital world one step at a time. 🚀 All my coding projects are built from the ground up, encompassing everything from planning and design to solving real-life problems with code. 💡
+I'm an AI developer and founder of Carbo software, an AI automations agency established to enhance effieciency and impact for SMME's leveraging Generative AI. 🚀 All my coding projects are built from the ground up, encompassing everything from planning and design to solving real-life problems with code. 💡
 I have a keen interest in cloud computing ☁️ and leveraging generative AI 🤖 to benefit small businesses. My goal is to empower businesses of all sizes with AI and cloud computing solutions, enabling them to compete effectively with larger enterprises. 💼🌟
 
-📍**Currently** : ALX/Holbert School software engineering program (👨‍💻 BACK-END ENGINEER SPEACILIAZATION)
-
+📍**Currently** : Head of AI and product development at Traffic Hub  
 ![banner](https://raw.githubusercontent.com/NEO-SK01/NEO-SK01/master/image/BANNER-SVG-GITHUB.svg)
 
 ---
@@ -20,7 +19,6 @@ I have a keen interest in cloud computing ☁️ and leveraging generative AI �
 <img align="left" alt="HTML" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="JavaScript" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="React" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="NodeJS" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="Python" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="GitHub" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
